@@ -18,3 +18,8 @@ A simple script to block ads in youtub
 	**Note: Do not restart the browser and then open the youtube page. Simply close the Console window.** 
 
 **Voila** !! That's it.>!! now stream your favourite videos without cursing the ads.
+
+## Issues
+
+**You have to do this everytime you start youtube.** 
+I will soon update a Chrome extension, so that you can start it with just a click.
