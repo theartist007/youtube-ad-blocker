@@ -1,11 +1,11 @@
 # youtube-ad-blocker
-A simple script to block ads in youtub
+A simple script to block ads in youtube
 
 ## Usage
 
 * Copy the code in the src.js file.
 * Open www.youtube.com.
-* Open your Javascript console. To do this, 
+* **Open your Javascript console.** To do this, 
 	* For Macbook Users :
 		* Chrome : Press Option+Command+J
 		* Safari : Press Option+Command+C
@@ -13,7 +13,7 @@ A simple script to block ads in youtub
 	* For Windows Users :
 		* Chrome : Press Ctrl+Shift+J
 		* Firefox : Press Ctrl+Shift+K
-* After opening the console, paste the code in the code writing area (Usually it is present in the bottom of the page). **You can also simple press Ctrl+V. 
+* After opening the console, paste the code in the code writing area (Usually it is present in the bottom of the page). **You can also simple press Ctrl+V**. 
 * Now return back to the youtube page.
 	**Note: Do not restart the browser and then open the youtube page. Simply close the Console window.** 
 
