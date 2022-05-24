@@ -1,2 +1,8 @@
-document.cookie="VISITOR_INFO1_LIVE=oKckVSqvaGw; path=/; domain=.youtube.com";
-window.location.reload();
+setInterval(function(){
+    var skipButton = document.getElementsByClassName("ytp-ad-skip-button");
+    if(skipButton != undefined && skipButton.length>0){
+        console.log("Ad detected");
+        skipButton[0].click();
+    }
+
+},1000)
