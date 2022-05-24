@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+
+    "name": "Ads Skippper",
+    "description": "Ads Skippper",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "none"
+    },
+
+    "content_scripts": [{
+        "js": ["src.js"],
+        "run_at": "document_idle",
+        "matches": ["<all_urls>"]
+    }],
+
+    "permissions": [
+        "tabs",
+        "activeTab"
+    ]
+}
